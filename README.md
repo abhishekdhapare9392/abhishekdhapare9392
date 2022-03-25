@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on JavaScript (with Node and Frameworks) and PHP (with Frameworks)
 - 📫 How to reach me abhishek.dhapare@gmail.com
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdhapare9392)](https://github.com/abhishekdhapare9392/github-readme-stats)
+
