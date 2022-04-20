@@ -12,5 +12,5 @@
 
 ### Statestics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdhapare9392)](https://github.com/abhishekdhapare9392/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekdhapare9392)](https://github.com/abhishekdhapare9392)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhapare9392&layout=compact)](https://github.com/abhishekdhapare9392)
