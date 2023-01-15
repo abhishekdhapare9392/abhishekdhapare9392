@@ -16,3 +16,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdhapare9392&layout=compact)](https://github.com/abhishekdhapare9392)
 
+<a href="https://app.daily.dev/abhishekdhapare"><img src="https://api.daily.dev/devcards/c7639d63e2de49039775927aff9de5a7.png?r=nmi" width="400" alt="Abhishek Dhapare's Dev Card"/></a>
+
